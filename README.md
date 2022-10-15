@@ -6,7 +6,9 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End a alguns anos, estou no início da minha carreira, vontade crescer e me superar é o que não falta em mim!
+    Sou Desenvolvedor Front End a alguns anos, minha stack de tecnologia é: <br />
+    ReactJS + Typescript + RecoilJS + Formik + SWR + Jest + Storybook + Radix UI <br />
+    Vontade crescer e me superar é o que não falta em mim!
   </p>
   
   <p align="center">
