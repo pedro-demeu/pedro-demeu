@@ -9,6 +9,7 @@
     Sou Desenvolvedor de Softawre a 4 anos, passei por algumas tecnologias: <br />
     ReactJS + Typescript + RecoilJS + Formik + SWR + Jest + Storybook + Radix UI <br />
     Docker + Yml + Python + Django + DRF + Cypress + TailwindCSS + Java <br />
+    e etc.
   </p>
   
   <p align="center">
