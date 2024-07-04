@@ -1,14 +1,14 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Eu sou o 
     <a href="https://www.linkedin.com/in/pdemeu/">Pedro Demeu 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End a alguns anos, minha stack de tecnologia é: <br />
+    Sou Desenvolvedor de Softawre a 4 anos, passei por algumas tecnologias: <br />
     ReactJS + Typescript + RecoilJS + Formik + SWR + Jest + Storybook + Radix UI <br />
-    Vontade crescer e me superar é o que não falta em mim!
+    Docker + Yml + Python + Django + DRF + Cypress + TailwindCSS + Java <br />
   </p>
   
   <p align="center">
