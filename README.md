@@ -1,14 +1,14 @@
 ![SVG Image](/assets/banner_01.svg)
 
-<h1>Hi 👋<br /> I'm Pedro Demeu</h1>
-<p>Full-Stack Developer | Software Engineer</p>
+<h1>Hello Folks<br /> I'm Pedro Demeu</h1>
+<p>Senior Software Engineer</p>
 <br />
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br />
 
 <p>
-  Hello! I am a <strong>software engineer with 5 years of experience</strong> in developing <strong>high-impact and mission-critical software solutions</strong>. Throughout my career, I have focused on building <strong>high-performance systems</strong>, optimizing processes, and maintaining <strong>complex systems</strong>, ensuring they operate efficiently and reliably.
+  Hello! I am a <strong>Senior Software Engineer with more than 6 years of experience</strong> in developing <strong>high-impact and mission-critical software solutions</strong>. Throughout my career, I have focused on building <strong>high-performance systems</strong>, optimizing processes, and maintaining <strong>complex systems</strong>, ensuring they operate efficiently and reliably.
 </p>
 <p>
   My expertise includes <strong>creating new features</strong>, solving <strong>challenging technical problems</strong>, and delivering results that <strong>add value to the business</strong>. I am deeply committed to <strong>code quality</strong>, <strong>best development practices</strong>, and delivering <strong>scalable and robust solutions</strong>.
@@ -17,11 +17,9 @@
   I specialize in technologies such as <strong>ReactJS</strong>, <strong>TypeScript</strong>, <strong>React Native</strong>, and <strong>VideoJS (Streaming)</strong>. I strive to understand <strong>business rules</strong>, <strong>user pain points</strong>, and the <strong>product itself</strong>, always seeking to grow as a professional to deliver the <strong>highest quality in my solutions</strong>.
 </p>
 <p>
-  Currently, I work as a developer, creating <strong>new features</strong>, optimizing <strong>video performance on the front end</strong>, and maintaining a <strong>VMS (Video Monitoring Cloud Platform)</strong> built with <strong>React</strong>, <strong>TypeScript</strong>, and <strong>industry best practices</strong>.
+  Working on mission-critical financial applications, in partnership with Itaú Unibanco, contributing to strategic systems in the financial ecosystem of Avenida Faria Lima.
 </p>
-<p>
-  Learn more about the platform I work on: <strong>https://segware.com/vms/</strong>
-</p>
+
 
 # 💻 Tech Stack:
 
@@ -29,6 +27,6 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pdemeu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pdemeu.pessoal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pdemeu) 
 
 ![SVG Image](/assets/banner_02.svg)
